@@ -1,0 +1,71 @@
+.container {
+    max-width: 1200px;
+    height: 600px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+input {
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+button {
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.rous {
+    margin-left: 150px;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    max-width: 900px;
+    height: 500px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    
+    border: 5px solid ;
+}
+
+img {
+    border: 3px solid;
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.dark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.router {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.read {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+}
+
+.fors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
